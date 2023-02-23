@@ -1,0 +1,21 @@
+.Footer{
+  color: #E1E1E6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  background-color: #26262b;
+  height: 70px;
+  width: 100%; 
+  a{
+    color: #E19F41;
+    text-decoration: none;
+  }
+}
+
+.Footer h5 {
+
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
