@@ -1,4 +1,6 @@
-# Modelo simples de testes para aplicações React com TypeScript
+# Modelo de testes React TS
+
+### Configuração de testes para componentes react funcional, um atalho para ambiente de desenvolvimento com react.
 
 <section align=center>
 
