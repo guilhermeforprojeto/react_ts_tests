@@ -6,7 +6,7 @@ describe('App', () => {
 
     expect(1 + 1).toBe(2)
   })
-  test('sun', () => {
+  test('Teste page App', () => {
     const { getByText } = render(<App />)
     expect(getByText('HelloWord!')).toBeTruthy()
   });
