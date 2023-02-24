@@ -21,3 +21,8 @@ em seguida:
 Video como usar a aplicação
 <br/>
 Usando a aplicação:
+<hr>
+
+https://user-images.githubusercontent.com/24197003/221030600-57e99203-4ecf-48bb-b2db-b7d5e791dc44.mp4
+
+<hr>
