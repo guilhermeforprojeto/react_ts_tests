@@ -27,8 +27,11 @@ em seguida:
 
 `pnpm start`
 
-<hr>
 
+<hr>
+Docs: <a href="https://testing-library.com/docs/queries/about/"> testing-library <a>
+
+<hr>
 Video como usar a aplicação
 <br/>
 Usando a aplicação:
